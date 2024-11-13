@@ -3,10 +3,10 @@
 
 # 🌟 rtodo - A Rust-Powered To-Do List Manager 🌟
 
-[![crates.io](https://img.shields.io/crates/v/rtodo?color=blue&label=Crates.io)](https://crates.io/crates/rtodo)
-![GitHub License](https://img.shields.io/github/license/chrohangurjar1/rtodo?color=green&label=License)
+[![crates.io](https://img.shields.io/crates/v/Rust-To-Do-Cli?color=blue&label=Crates.io)](https://crates.io/crates/rtodo)
+![GitHub License](https://img.shields.io/github/license/chrohangurjar1/Rust-To-Do-Cli?color=green&label=License)
 ![Maintenance](https://img.shields.io/maintenance/yes/2024?color=yellow&label=Maintained)
-[![GitHub Contributors](https://img.shields.io/github/contributors/chrohangurjar1/rtodo?color=brightgreen)](https://github.com/chrohangurjar1/rtodo/graphs/contributors)
+[![GitHub Contributors](https://img.shields.io/github/contributors/chrohangurjar1/Rust-To-Do-Cli?color=brightgreen)](https://github.com/chrohangurjar1/Rust-To-Do-Cli/graphs/contributors)
 
 **rtodo** is a command-line to-do list manager built with 💖 in Rust. This project was created to deepen my understanding of Rust while building something practical. It’s open for contributions from fellow Rust learners and enthusiasts!
 
@@ -35,18 +35,18 @@
 
 ### Via Cargo
 
-Install `rtodo` using Cargo:
+Install `Rust-To-Do-Cli` using Cargo:
 
 ```bash
-cargo install rtodo
+cargo install Rust-To-Do-Cli
 ```
 
 ### ArchLinux
 
-Install `rtodo` on ArchLinux:
+Install `Rust-To-Do-Cli` on ArchLinux:
 
 ```bash
-yay -S rtodo-bin
+yay -S Rust-To-Do-Cli-bin
 ```
 
 ---
@@ -56,13 +56,13 @@ yay -S rtodo-bin
 Clone the repository:
 
 ```bash
-git clone https://github.com/chrohangurjar1/rtodo.git
+git clone https://github.com/chrohangurjar1/Rust-To-Do-Cli.git
 ```
 
 Navigate to the project directory:
 
 ```bash
-cd rtodo
+cd Rust-To-Do-Cli
 ```
 
 Build the project:
