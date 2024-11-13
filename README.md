@@ -5,7 +5,7 @@
 
 [![crates.io](https://img.shields.io/crates/v/rtodo?color=blue&label=Crates.io)](https://crates.io/crates/rtodo)
 ![GitHub License](https://img.shields.io/github/license/chrohangurjar1/rtodo?color=green&label=License)
-![Maintenance](https://img.shields.io/maintenance/yes/2023?color=yellow&label=Maintained)
+![Maintenance](https://img.shields.io/maintenance/yes/2024?color=yellow&label=Maintained)
 [![GitHub Contributors](https://img.shields.io/github/contributors/chrohangurjar1/rtodo?color=brightgreen)](https://github.com/chrohangurjar1/rtodo/graphs/contributors)
 
 **rtodo** is a command-line to-do list manager built with 💖 in Rust. This project was created to deepen my understanding of Rust while building something practical. It’s open for contributions from fellow Rust learners and enthusiasts!
