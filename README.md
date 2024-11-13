@@ -1,106 +1,107 @@
-[![crates.io](https://img.shields.io/crates/v/rtodo)](https://crates.io/crates/rtodo)
-![GitHub](https://img.shields.io/github/license/tiagorcorreia/rtodo)
-![maintenance](https://img.shields.io/maintenance/yes/2023)
-[![contributors](https://img.shields.io/github/contributors/tiagorcorreia/rtodo)](https://github.com/hoodie/notify-rust/graphs/contributors)
 
-# A simple To-Do list manager written in Rust
+---
 
-I wrote this project while I'm learning Rust for practice.
+# 🌟 rtodo - A Rust-Powered To-Do List Manager 🌟
 
-I decided to put this project online so that others, like me, who are learning Rust can
-take some ideas and help me improve this code too.
+[![crates.io](https://img.shields.io/crates/v/rtodo?color=blue&label=Crates.io)](https://crates.io/crates/rtodo)
+![GitHub License](https://img.shields.io/github/license/chrohangurjar1/rtodo?color=green&label=License)
+![Maintenance](https://img.shields.io/maintenance/yes/2023?color=yellow&label=Maintained)
+[![GitHub Contributors](https://img.shields.io/github/contributors/chrohangurjar1/rtodo?color=brightgreen)](https://github.com/chrohangurjar1/rtodo/graphs/contributors)
 
-Feel free to open a pull request to improve the code, add new features, and help me learn Rust.
+**rtodo** is a command-line to-do list manager built with 💖 in Rust. This project was created to deepen my understanding of Rust while building something practical. It’s open for contributions from fellow Rust learners and enthusiasts!
 
-## Features
+---
 
-- List todos
-- Add todos
-- Remove todos
-- Update todos
-- Set Priority
-- Status Done/Undone
-- Sort by priority and status
-- Import from CSV/JSON
-- Export to CSV/JSON
+## 🚀 Features
 
-## Screenshots
+- **Flexible Task Management**: Easily list, add, remove, and update your tasks.
+- **Priority Levels**: Assign tasks with priority levels to stay on top of important items.
+- **Status Control**: Mark tasks as done or undone, and organize them by status.
+- **Smart Sorting**: Sort tasks by priority or status for quick overview.
+- **Import/Export Options**: Seamlessly import/export your tasks in CSV/JSON formats.
 
-<p align="center"><img src="/img/img1.png?raw=true"/></p>
-<p align="center"><img src="/img/img2.png?raw=true"/></p>
-<p align="center"><img src="/img/img3.png?raw=true"/></p>
-<p align="center"><img src="/img/img4.png?raw=true"/></p>
+## 📸 Screenshots
 
+<center>
+  <img src="/img/img1.png?raw=true" alt="Main Screen" width="75%"/>
+  <img src="/img/img2.png?raw=true" alt="Add To-Do" width="75%"/>
+  <img src="/img/img3.png?raw=true" alt="Sort Tasks" width="75%"/>
+  <img src="/img/img4.png?raw=true" alt="Export Options" width="75%"/>
+</center>
 
-## Installation
+---
 
+## 🛠️ Installation
 
-Install rtodo with cargo
+### Via Cargo
+
+Install `rtodo` using Cargo:
 
 ```bash
 cargo install rtodo
 ```
 
-Install rtodo on ArchLinux
+### ArchLinux
+
+Install `rtodo` on ArchLinux:
 
 ```bash
 yay -S rtodo-bin
 ```
 
-    
-## Run Locally
+---
 
-Clone the project
+## 🏃 Run Locally
 
-```bash
-  git clone https://github.com/TiagoRCorreia/rtodo.git
-```
-
-Go to the project directory
+Clone the repository:
 
 ```bash
-  cd rtodo
+git clone https://github.com/chrohangurjar1/rtodo.git
 ```
 
-Build project
+Navigate to the project directory:
 
 ```bash
-  cargo build --release
+cd rtodo
 ```
 
-Run the program
+Build the project:
 
 ```bash
-  cargo run
+cargo build --release
 ```
 
+Run the program:
 
-## Roadmap
+```bash
+cargo run
+```
 
-- Better error handling
-- Code improvement
+---
 
+## 🛣️ Roadmap
 
+- 💡 Enhanced error handling for a smoother experience
+- 🔧 Code optimizations to improve performance
 
+---
 
+## 🤝 Contributing
 
-## Feedback
+Contributions are highly encouraged! Whether it’s fixing bugs, adding features, or optimizing the code, your input is welcome. Check out our [CONTRIBUTING.md](CONTRIBUTING.md) for how to get started, and please adhere to our [Code of Conduct](CODE_OF_CONDUCT.md).
 
-If you have any feedback, please reach out to me at tiagorcoreia87@gmail.com
+---
 
+## 📬 Feedback
 
+Your feedback is invaluable! Feel free to reach out to me via email at **your.email@example.com**.
 
-## Contributing
+---
 
-Contributions are always welcome!
+## 📜 License
 
-See [contributing](CONTRIBUTING.md) for ways to get started.
+This project is licensed under the [MIT License](https://choosealicense.com/licenses/mit/).
 
-Please adhere to this project's [code of conduct](CODE_OF_CONDUCT.md).
+---
 
-
-
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
-
+With this version, we’ve aimed for clarity and a bit of personality. Let me know if you’d like to make any additional changes!
