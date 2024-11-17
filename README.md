@@ -104,4 +104,3 @@ This project is licensed under the [MIT License](https://choosealicense.com/lice
 
 ---
 
-With this version, we’ve aimed for clarity and a bit of personality. Let me know if you’d like to make any additional changes!
