@@ -4,9 +4,9 @@
 # 🌟 Rust-To-Do-Cli- A Rust-Powered To-Do List Manager 🌟
 
 [![crates.io](https://img.shields.io/crates/v/Rust-To-Do-Cli?color=blue&label=Crates.io)](https://crates.io/crates/Rust-To-Do-Cli)
-![GitHub License](https://img.shields.io/github/license/chrohangurjar1/Rust-To-Do-Cli?color=green&label=License)
+![GitHub License](https://img.shields.io/github/license/RohanCyberOps/Rust-To-Do-Cli?color=green&label=License)
 ![Maintenance](https://img.shields.io/maintenance/yes/2024?color=yellow&label=Maintained)
-[![GitHub Contributors](https://img.shields.io/github/contributors/chrohangurjar1/Rust-To-Do-Cli?color=brightgreen)](https://github.com/chrohangurjar1/Rust-To-Do-Cli/graphs/contributors)
+[![GitHub Contributors](https://img.shields.io/github/contributors/RohanCyberOps/Rust-To-Do-Cli?color=brightgreen)](https://github.com/RohanCyberOps/Rust-To-Do-Cli/graphs/contributors)
 
 **rtodo** is a command-line to-do list manager built with 💖 in Rust. This project was created to deepen my understanding of Rust while building something practical. It’s open for contributions from fellow Rust learners and enthusiasts!
 
@@ -23,10 +23,10 @@
 ## 📸 Screenshots
 
 <center>
-  <img src="/img/img1.png?raw=true" alt="Main Screen" width="75%"/>
-  <img src="/img/img2.png?raw=true" alt="Add To-Do" width="75%"/>
-  <img src="/img/img3.png?raw=true" alt="Sort Tasks" width="75%"/>
-  <img src="/img/img4.png?raw=true" alt="Export Options" width="75%"/>
+  <img src="/assets/img1.png?raw=true" alt="Main Screen" width="75%"/>
+  <img src="/assets/img2.png?raw=true" alt="Add To-Do" width="75%"/>
+  <img src="/assets/img3.png?raw=true" alt="Sort Tasks" width="75%"/>
+  <img src="/assets/img4.png?raw=true" alt="Export Options" width="75%"/>
 </center>
 
 ---
@@ -56,7 +56,7 @@ yay -S Rust-To-Do-Cli-bin
 Clone the repository:
 
 ```bash
-git clone https://github.com/chrohangurjar1/Rust-To-Do-Cli.git
+git clone https://github.com/RohanCyberOps/Rust-To-Do-Cli.git
 ```
 
 Navigate to the project directory:
